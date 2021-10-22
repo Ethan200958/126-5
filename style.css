@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px  grey;
+}
+
+#note {
+    font-size: 14px;
+    color: black;
+
+}
+
+.playing {
+    font-size: 22px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+canvas {
+    border: 5px solid white;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
